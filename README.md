@@ -1,5 +1,5 @@
 # Isaac Asimov, a tribute: A basic web page
-Live page at https://parvathy-santhosh.github.io/Product-Landing-Page/
+Live page at https://parvathy-santhosh.github.io/tribute-asimov/
 
 This is a very simple responsive web page - a small tribute to the sci-fi master Isaac Asimov
 
