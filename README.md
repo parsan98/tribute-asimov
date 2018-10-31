@@ -2,9 +2,9 @@
 This is a very simple responsive web page - a small tribute to the sci-fi master Isaac Asimov
 
 ### Getting started
-This repository consists of the HTML and CSS files and one PNG image - all three in separate folders.
+This repository consists of the HTML and CSS files and one PNG image in the docs folder.
 1. Download and unzip contents
-2. Open _/html/tribute.html_ - the complete html is available offline in the repo; however you will need net connection to follow the hyperlink to more information (anchor to the relevant Britannia Encyclopaedia page).
+2. Open _docs/index.html_ - the complete html is available offline in the repo; however you will need net connection to follow the hyperlink to more information (anchor to the relevant Britannia Encyclopaedia page).
 
 ## Features
 * Contains one HTML file and one linked CSS file.
